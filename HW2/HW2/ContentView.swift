@@ -1,3 +1,4 @@
+//IMPORTANT: to be able to run the PracticeView file, go to HW2App.swift and change ContentView() to PracticeView()
 
 //
 //
